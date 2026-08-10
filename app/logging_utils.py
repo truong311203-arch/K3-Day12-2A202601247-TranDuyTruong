@@ -1,6 +1,6 @@
 """CP1 — Structured logging.
 
-`print("user abc hỏi gì đó")` là log cho người đọc. Cloud (Railway, Render,
+`print("user abc hỏi gì đó")` là log cho người đọc. Cloud (Render,
 Cloud Run, Datadog...) đọc log bằng máy: một dòng = một JSON object thì mới
 lọc/đếm/cảnh báo được. Đây là khác biệt lớn giữa localhost và production.
 """

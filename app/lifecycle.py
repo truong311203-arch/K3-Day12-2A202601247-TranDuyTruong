@@ -1,6 +1,6 @@
 """CP4 — Graceful shutdown.
 
-Khi bạn deploy phiên bản mới, orchestrator (Docker, Railway, Cloud Run, K8s)
+Khi bạn deploy phiên bản mới, orchestrator (Docker, Render, Cloud Run, K8s)
 gửi **SIGTERM** rồi đợi vài chục giây trước khi SIGKILL. Nếu app bỏ qua tín
 hiệu đó, mọi request đang xử lý dở bị cắt giữa chừng — user thấy lỗi 502 mỗi
 lần bạn deploy.
