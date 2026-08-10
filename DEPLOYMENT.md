@@ -18,7 +18,7 @@
 
 | Mục | Nội dung |
 |-----|----------|
-| Public URL | http://localhost:8000 |
+| Public URL | https://day12-agent-bhnx.onrender.com |
 | Platform | Render |
 | Ngày deploy | 10/08/2026 |
 
