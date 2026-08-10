@@ -116,6 +116,7 @@ content-type: application/json
 
 - `screenshots/dashboard.png` — trang quản lý service trên platform
 - `screenshots/health.png` — kết quả gọi `/health` từ trình duyệt hoặc curl
+- `screenshots/ci_cd.png` — minh chứng kết quả chạy GitHub Actions CI/CD thành công
 
 ---
 
